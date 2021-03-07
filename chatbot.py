@@ -10,6 +10,8 @@ root.resizable(width=FALSE, height=TRUE)
 # main menu
 main_menu = Menu(root)
 
+# test test 
+
 # sub menus
 file_menu = Menu(root)
 file_menu.add_command(label="New")
